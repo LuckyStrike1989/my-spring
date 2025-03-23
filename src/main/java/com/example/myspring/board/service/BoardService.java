@@ -2,7 +2,7 @@ package com.example.myspring.board.service;
 
 import com.example.myspring.board.dto.Board;
 import com.example.myspring.board.mapper.BoardMapper;
-import com.example.servlet.exception.BoardNotFoundException;
+import com.example.myspring.servlet.exception.BoardNotFoundException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.Cacheable;

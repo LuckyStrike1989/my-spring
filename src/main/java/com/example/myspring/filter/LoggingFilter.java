@@ -1,6 +1,6 @@
 package com.example.myspring.filter;
 
-import com.example.servlet.CachedBodyHttpServletRequest;
+import com.example.myspring.servlet.CachedBodyHttpServletRequest;
 import jakarta.servlet.*;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
